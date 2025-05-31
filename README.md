@@ -13,7 +13,7 @@
 
 ---
 
-- 👨‍💻 👨‍💻 As a front-end developer, I'm passionate about creating intuitive and visually compelling user experiences. I'm constantly learning and exploring the latest technologies to improve my skills.
+- 👨‍💻 As a front-end developer, I'm passionate about creating intuitive and visually compelling user experiences. I'm constantly learning and exploring the latest technologies to improve my skills.
 - 💬 Ask me about my experience in JavaScript, HTML, CSS, WordPress and more.
 - 🌱 I'm currently delving into web animations and performance optimization to take user interfaces to the next level.
 
