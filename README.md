@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Hi, I'm Ruben Chedas
+  Ruben Chedas
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -13,9 +13,15 @@
 
 ---
 
-- 👨‍💻 As a front-end developer, I'm passionate about creating intuitive and visually compelling user experiences. I'm constantly learning and exploring the latest technologies to improve my skills.
-- 💬 Ask me about my experience in JavaScript, HTML, CSS, WordPress and more.
-- 🌱 I'm currently delving into web animations and performance optimization to take user interfaces to the next level.
+¡Hola! Soy Desarrollador Web y Analista de Datos 🚀
+Combino la lógica del código con el poder de los datos para crear experiencias digitales optimizadas e información de negocio de alto valor.
+
+💻 Front-End: Creación de interfaces de usuario limpias, responsivas y animadas (JS, HTML, CSS, WordPress).
+
+📊 Análisis de Datos: Extracción, limpieza y visualización de datos para impulsar el crecimiento (Python, SQL, Power BI).
+
+💬 Hablemos sobre: Rendimiento web, decisiones basadas en datos o cómo transformar conjuntos de datos desorganizados en dashboards interactivos.
+🔭 Buscando: Mi primera oportunidad como Analista de Datos Junior / Desarrollador Junior en equipos tecnológicos en remoto o basados en Tenerife.
 
 ## 🛠 &nbsp;Tech Stack
 
