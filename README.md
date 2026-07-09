@@ -23,7 +23,14 @@ Combino la lógica del código con el poder de los datos para crear experiencias
 💬 Hablemos sobre: Rendimiento web, decisiones basadas en datos o cómo transformar conjuntos de datos desorganizados en dashboards interactivos.
 🔭 Buscando: Mi primera oportunidad como Analista de Datos Junior / Desarrollador Junior en equipos tecnológicos en remoto o basados en Tenerife.
 
-<br><br><br><br><br><br><br>
+## 🛠 &nbsp;Tech Stack
+
+<h3>My GitHub Stats</h3>
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" >
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RubeenCP&show_icons=true&theme=dark&locale=en&layout=compact" alt="RubeenCP" /></p>
+
+<br><br>
 
 <div id="user-content-toc">
   <ul align="center">
