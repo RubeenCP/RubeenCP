@@ -21,6 +21,7 @@ Combino la lógica del código con el poder de los datos para crear experiencias
 📊 Análisis de Datos: Extracción, limpieza y visualización de datos para impulsar el crecimiento (Python, SQL, Power BI).
 
 💬 Hablemos sobre: Rendimiento web, decisiones basadas en datos o cómo transformar conjuntos de datos desorganizados en dashboards interactivos.
+
 🔭 Buscando: Mi primera oportunidad como Analista de Datos Junior / Desarrollador Junior en equipos tecnológicos en remoto o basados en Tenerife.
 
 <br><br>
