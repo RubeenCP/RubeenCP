@@ -2,7 +2,7 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
-<h3 align="center"><a href="https://www.linkedin.com/in/ruben-chedas-a60b34354/">Ruben Chedas</a> 👋
+<h3 align="center"><a href="https://www.linkedin.com/in/ruben-chedas-a60b34354/">Ruben Chedas</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -28,7 +28,7 @@ Combino la lógica del código con el poder de los datos para crear experiencias
 ## About me
 
 - 🔍 Data Scientist · ML · DA · GenAI 
-- ​💻​ Web Developer  · JS · HTML · CSS · WordPress
+- ​💻​ Front-End Web Developer  · JS · HTML · CSS · WordPress
 - ☎️ Contact me <samp>
                     <br/><div align="center">
                     <a href="https://www.linkedin.com/in/ruben-chedas-a60b34354/" target="blank"><img width="85px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
