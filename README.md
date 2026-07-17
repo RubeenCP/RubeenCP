@@ -29,6 +29,7 @@ Combino la lógica del código con el poder de los datos para crear experiencias
 
 - 🔍 Data Scientist · ML · DA · GenAI 
 - ​💻​ Front-End Web Developer  · JS · HTML · CSS · WordPress
+- Portfolio: https://rubeencp.github.io/
 - ☎️ Contacta conmigo <samp>
                     <br/><div align="center">
                     <a href="https://www.linkedin.com/in/ruben-chedas-a60b34354/" target="blank"><img width="85px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
