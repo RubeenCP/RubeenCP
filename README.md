@@ -74,34 +74,35 @@ Combino la lógica del código con el poder de los datos para crear experiencias
 
 <table border="0">
   <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>Análisis del comportamiento del cliente</h3>
-      <img src="https://blogs.uao.es/business-intelligence/wp-content/uploads/sites/44/2025/07/analista-datos.jpg" width="260">
-      <br><br>
-      <a href="https://github.com/RubeenCP/customer_behavior_analysis">
-        <img src="https://img.shields.io/badge/-%20CÓDIGO-FFF9A6?style=flat&logo=github&logoColor=black" alt="Código">
-      </a>
-      <br><br>
-      <p align="left">
-        Proyecto de analítica de datos a nivel empresarial que simula el ciclo completo de negocio en el sector minorista. Combina Python, SQL y Power BI para segmentar clientes, detectar patrones de fidelización y presentar recomendaciones estratégicas.
-      </p>
+    <!-- ================= PROYECTO 1 ================= -->
+    <td width="50%" valign="top">
+      <h3 align="center">Análisis del comportamiento del cliente</h3>
+      <div align="center">
+        <img src="https://blogs.uao.es/business-intelligence/wp-content/uploads/sites/44/2025/07/analista-datos.jpg" width="240" alt="Comportamiento del cliente">
+        <p style="margin-top: 10px;">
+          <a href="https://github.com/RubeenCP/customer_behavior_analysis" target="_blank">
+            <img src="https://img.shields.io/badge/-%20CÓDIGO-FFF9A6?style=flat&logo=github&logoColor=black" alt="Código">
+          </a>
+        </p>
+        <p align="left">
+          Proyecto de analítica de datos a nivel empresarial que simula el ciclo completo de negocio en el sector minorista. Combina Python, SQL y Power BI para segmentar clientes, detectar patrones de fidelización y presentar recomendaciones estratégicas.
+        </p>
+      </div>
     </td>
-  </tr>
-</table>
-
-<table border="0">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>Predicción de Abandono</h3>
-      <img src="https://www.appier.com/hubfs/Imported_Blog_Media/GettyImages-1030850238-01.jpg" width="260">
-      <br><br>
-      <a href="https://github.com/RubeenCP/Churn-Predictor">
-        <img src="https://img.shields.io/badge/-%20CÓDIGO-FFF9A6?style=flat&logo=github&logoColor=black" alt="Código">
-      </a>
-      <br><br>
-      <p align="left">
-        Churn-Predictor es una solución de IA de extremo a extremo que predice el abandono de clientes en telecomunicaciones. Combina un modelo Random Forest (Python) con un cuadro de mando (Power BI) para transformar la retención reactiva en una                estrategia comercial proactiva basada en datos.
-      </p>
+    <td width="50%" valign="top">
+      <h3 align="center">Predicción de Abandono (Churn)</h3>
+      <div align="center">
+        <!-- Ajustada a 300px porque es más apaisada y necesita compensar el ancho -->
+        <img src="https://i.imgur.com/your-image-link.png" width="300" alt="Predicción de Abandono"> 
+        <p style="margin-top: 10px;">
+          <a href="https://github.com/RubeenCP/Churn-Predictor" target="_blank">
+            <img src="https://img.shields.io/badge/-%20CÓDIGO-FFF9A6?style=flat&logo=github&logoColor=black" alt="Código">
+          </a>
+        </p>
+        <p align="left">
+          Churn-Predictor es una solución de IA de extremo a extremo que predice el abandono de clientes en telecomunicaciones. Combina un modelo Random Forest (Python) con un cuadro de mando (Power BI) para transformar la retención reactiva en una estrategia comercial proactiva basada en datos.
+        </p>
+      </div>
     </td>
   </tr>
 </table>
