@@ -1,4 +1,3 @@
-<img width="1024" height="1248" alt="analista-datos" src="https://github.com/user-attachments/assets/cf2b1c01-447e-46f2-b501-9b0ea9ed6962" />
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
