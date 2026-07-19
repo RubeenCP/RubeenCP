@@ -76,7 +76,7 @@ Combino la lógica del código con el poder de los datos para crear experiencias
   <tr>
     <td width="50%" align="center" valign="top">
       <h3>Análisis del comportamiento del cliente</h3>
-      <img src="![Uploading image.png…]()" width="100%">
+      <img src="https://blogs.uao.es/business-intelligence/2025/07/20/que-hace-un-analista-de-datos/" width="100%">
       <br><br>
       <a href="https://github.com/RubeenCP/customer_behavior_analysis">
         <img src="https://img.shields.io/badge/-%20CÓDIGO-FFF9A6?style=flat&logo=github&logoColor=black" alt="Código">
