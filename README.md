@@ -88,3 +88,20 @@ Combino la lógica del código con el poder de los datos para crear experiencias
     </td>
   </tr>
 </table>
+
+<table border="0">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>Análisis del comportamiento del cliente</h3>
+      <img src="https://www.appier.com/hubfs/Imported_Blog_Media/GettyImages-1030850238-01.jpg" width="260">
+      <br><br>
+      <a href="https://github.com/RubeenCP/Churn-Predictor">
+        <img src="https://img.shields.io/badge/-%20CÓDIGO-FFF9A6?style=flat&logo=github&logoColor=black" alt="Código">
+      </a>
+      <br><br>
+      <p align="left">
+        Churn-Predictor es una solución de IA de extremo a extremo que predice el abandono de clientes en telecomunicaciones. Combina un modelo Random Forest (Python) con un cuadro de mando (Power BI) para transformar la retención reactiva en una                estrategia comercial proactiva basada en datos.
+      </p>
+    </td>
+  </tr>
+</table>
