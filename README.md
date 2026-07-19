@@ -69,3 +69,20 @@ Combino la lógica del código con el poder de los datos para crear experiencias
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)&nbsp;
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)&nbsp;
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat&logo=python&logoColor=white)&nbsp;
+
+## 📊 Projects
+
+<table border="0">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>Análisis del comportamiento del cliente</h3>
+      <img src="![Uploading image.png…]()" width="100%">
+      <br><br>
+      <a href="https://github.com/RubeenCP/customer_behavior_analysis">
+        <img src="https://img.shields.io/badge/-%20CÓDIGO-FFF9A6?style=flat&logo=github&logoColor=black" alt="Código">
+      </a>
+      <br><br>
+      <p align="left">
+        Proyecto de analítica de datos a nivel empresarial que simula el ciclo completo de negocio en el sector minorista. Combina Python, SQL y Power BI para segmentar clientes, detectar patrones de fidelización y presentar recomendaciones estratégicas.
+      </p>
+    </td>
