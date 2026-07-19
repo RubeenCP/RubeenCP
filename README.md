@@ -12,7 +12,7 @@
 
 ---
 
-¡Hola! Soy Desarrollador Web y Analista de Datos 🚀
+¡Hola! Soy Desarrollador Web y Analista de Datos.
 Combino la lógica del código con el poder de los datos para crear experiencias digitales optimizadas e información de negocio de alto valor.
 
 💻 Front-End: Creación de interfaces de usuario limpias, responsivas y animadas (JS, HTML, CSS, WordPress).
