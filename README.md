@@ -1,3 +1,4 @@
+<img width="1024" height="1248" alt="analista-datos" src="https://github.com/user-attachments/assets/cf2b1c01-447e-46f2-b501-9b0ea9ed6962" />
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
@@ -76,7 +77,7 @@ Combino la lógica del código con el poder de los datos para crear experiencias
   <tr>
     <td width="50%" align="center" valign="top">
       <h3>Análisis del comportamiento del cliente</h3>
-      <img src="https://blogs.uao.es/business-intelligence/2025/07/20/que-hace-un-analista-de-datos/" width="100%">
+      <img src="https://blogs.uao.es/business-intelligence/wp-content/uploads/sites/44/2025/07/analista-datos.jpg" width="100%">
       <br><br>
       <a href="https://github.com/RubeenCP/customer_behavior_analysis">
         <img src="https://img.shields.io/badge/-%20CÓDIGO-FFF9A6?style=flat&logo=github&logoColor=black" alt="Código">
@@ -86,3 +87,5 @@ Combino la lógica del código con el poder de los datos para crear experiencias
         Proyecto de analítica de datos a nivel empresarial que simula el ciclo completo de negocio en el sector minorista. Combina Python, SQL y Power BI para segmentar clientes, detectar patrones de fidelización y presentar recomendaciones estratégicas.
       </p>
     </td>
+  </tr>
+</table>
