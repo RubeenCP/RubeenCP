@@ -74,7 +74,6 @@ Combino la lógica del código con el poder de los datos para crear experiencias
 
 <table border="0">
   <tr>
-    <!-- ================= PROYECTO 1 ================= -->
     <td width="50%" valign="top">
       <h3 align="center">Análisis del comportamiento del cliente</h3>
       <div align="center">
@@ -92,8 +91,7 @@ Combino la lógica del código con el poder de los datos para crear experiencias
     <td width="50%" valign="top">
       <h3 align="center">Predicción de Abandono (Churn)</h3>
       <div align="center">
-        <!-- Ajustada a 300px porque es más apaisada y necesita compensar el ancho -->
-        <img src="https://i.imgur.com/your-image-link.png" width="300" alt="Predicción de Abandono"> 
+        <img src="https://www.appier.com/hubfs/Imported_Blog_Media/GettyImages-1030850238-01.jpg" width="300" alt="Predicción de Abandono"> 
         <p style="margin-top: 10px;">
           <a href="https://github.com/RubeenCP/Churn-Predictor" target="_blank">
             <img src="https://img.shields.io/badge/-%20CÓDIGO-FFF9A6?style=flat&logo=github&logoColor=black" alt="Código">
