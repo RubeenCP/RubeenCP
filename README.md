@@ -41,7 +41,7 @@ Combino la lógica del código con el poder de los datos para crear experiencias
 
 ## 🛠️ Skills
 
-#### Languages
+#### Lenguajes
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sql)&nbsp;
@@ -70,7 +70,7 @@ Combino la lógica del código con el poder de los datos para crear experiencias
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)&nbsp;
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat&logo=python&logoColor=white)&nbsp;
 
-## 📊 Projects
+## 📊 Proyectos
 
 <table border="0">
   <tr>
