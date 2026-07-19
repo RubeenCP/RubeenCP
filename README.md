@@ -77,8 +77,8 @@ Combino la lógica del código con el poder de los datos para crear experiencias
     <td width="50%" valign="top">
       <h3 align="center">Análisis del comportamiento del cliente</h3>
       <div align="center">
-        <img src="https://blogs.uao.es/business-intelligence/wp-content/uploads/sites/44/2025/07/analista-datos.jpg" width="240" alt="Comportamiento del cliente">
-        <p style="margin-top: 10px;">
+        <img src="https://blogs.uao.es/business-intelligence/wp-content/uploads/sites/44/2025/07/analista-datos.jpg" height="160" alt="Comportamiento del cliente">
+        <p style="margin-top: 15px; margin-bottom: 15px;">
           <a href="https://github.com/RubeenCP/customer_behavior_analysis" target="_blank">
             <img src="https://img.shields.io/badge/-%20CÓDIGO-FFF9A6?style=flat&logo=github&logoColor=black" alt="Código">
           </a>
@@ -91,8 +91,8 @@ Combino la lógica del código con el poder de los datos para crear experiencias
     <td width="50%" valign="top">
       <h3 align="center">Predicción de Abandono (Churn)</h3>
       <div align="center">
-        <img src="https://www.appier.com/hubfs/Imported_Blog_Media/GettyImages-1030850238-01.jpg" width="300" alt="Predicción de Abandono"> 
-        <p style="margin-top: 10px;">
+        <img src="https://www.appier.com/hubfs/Imported_Blog_Media/GettyImages-1030850238-01.jpg" height="160" alt="Predicción de Abandono"> 
+        <p style="margin-top: 15px; margin-bottom: 15px;">
           <a href="https://github.com/RubeenCP/Churn-Predictor" target="_blank">
             <img src="https://img.shields.io/badge/-%20CÓDIGO-FFF9A6?style=flat&logo=github&logoColor=black" alt="Código">
           </a>
