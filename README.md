@@ -92,7 +92,7 @@ Combino la lógica del código con el poder de los datos para crear experiencias
 <table border="0">
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3>Análisis del comportamiento del cliente</h3>
+      <h3>Predicción de Abandono</h3>
       <img src="https://www.appier.com/hubfs/Imported_Blog_Media/GettyImages-1030850238-01.jpg" width="260">
       <br><br>
       <a href="https://github.com/RubeenCP/Churn-Predictor">
